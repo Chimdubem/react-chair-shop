@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-chair-shop/static/css/main.e739c461.css",
+    "main.js": "/react-chair-shop/static/js/main.cd510bb9.js",
+    "static/media/customers.jpg": "/react-chair-shop/static/media/customers.e5d1b6cebae82d6003db.jpg",
+    "static/media/chair-1.jpg": "/react-chair-shop/static/media/chair-1.265fe2438807f77d7e89.jpg",
+    "static/media/hero.jpg": "/react-chair-shop/static/media/hero.9b588640ba0016d775aa.jpg",
+    "static/media/chair-2.jpg": "/react-chair-shop/static/media/chair-2.fbda02a7a8531d59dc66.jpg",
+    "static/media/chair-3.jpg": "/react-chair-shop/static/media/chair-3.a3b3854e78217936bf34.jpg",
+    "static/media/globe.svg": "/react-chair-shop/static/media/globe.16105c37c46e808cf07e6f08516deecb.svg",
+    "static/media/star.svg": "/react-chair-shop/static/media/star.af080ab4c77ca0c5b50575b3bf273f98.svg",
+    "index.html": "/react-chair-shop/index.html",
+    "static/media/science.svg": "/react-chair-shop/static/media/science.d326fcc14a4f3a90f06228705a583e35.svg",
+    "static/media/smile.svg": "/react-chair-shop/static/media/smile.d1bc8ed642155851bff1697764efe364.svg",
+    "static/media/heart.svg": "/react-chair-shop/static/media/heart.4e636ac2ac4c0c5234deea77a68772fb.svg",
+    "static/media/box.svg": "/react-chair-shop/static/media/box.4bfdc20c7c6851d9c89e1f0c27ac9f41.svg",
+    "static/media/clock.svg": "/react-chair-shop/static/media/clock.99bb0b00cf44364f1bea6d0c15ef7aec.svg",
+    "main.e739c461.css.map": "/react-chair-shop/static/css/main.e739c461.css.map",
+    "main.cd510bb9.js.map": "/react-chair-shop/static/js/main.cd510bb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e739c461.css",
+    "static/js/main.cd510bb9.js"
+  ]
+}
