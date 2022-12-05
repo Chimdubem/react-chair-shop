@@ -1,0 +1,69 @@
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4.8rem;
+  align-items: center;
+
+  padding: 6.4rem 1.2rem 9.6rem;
+}
+
+.textbox {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.primary {
+  font-size: 4.8rem;
+  line-height: 1;
+  /* word-spacing: 0.1px; */
+}
+
+.secondary {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+.ctabtns {
+  display: flex;
+  gap: 2.4rem;
+}
+
+.cta {
+  display: inline-block;
+  padding: 1.2rem 2.4rem;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #087f5b;
+
+  border-radius: 2rem;
+}
+
+.cta:hover {
+  cursor: pointer;
+  background-color: #0c9f73;
+}
+
+.cta2 {
+  display: inline-block;
+  padding: 1.2rem 2.4rem;
+  font-size: 2rem;
+  color: #0c9f73;
+  border: 1px solid #087f5b;
+
+  border-radius: 2rem;
+  transition: 0.2s all;
+}
+
+.cta2:hover {
+  cursor: pointer;
+
+  transform: scale(0.8);
+}
+
+/* .imagebox {
+} */
+
+.img {
+  width: 100%;
+  border-radius: 2rem;
+}
